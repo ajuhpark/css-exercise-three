@@ -33,6 +33,7 @@ nav {
 .arrow{
   border: 3px solid #73AD21;
   float: right;
+  margin-right: 20px;
 }
 
 .restaurant-list {
@@ -52,4 +53,5 @@ h3{
 
 .location{
   height:75px;
+  width: 420px;
 }
