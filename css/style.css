@@ -65,3 +65,8 @@ h3{
   width: 420px;
   border-bottom: 1.5px solid #c0c0c0;
 }
+
+a:link { color: white; } /* unvisited */
+a:visited { color:#0070BA; } /* visited */
+.location:hover { color:#0070BC; } /* mouse over */
+a:active { color:#0070BD; } /* selected */
