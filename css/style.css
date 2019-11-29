@@ -68,5 +68,5 @@ h3{
 
 a:link { color: white; } /* unvisited */
 a:visited { color:#0070BA; } /* visited */
-.location:hover { color:#0070BC; } /* mouse over */
+.location:hover {background-color: #ffffcc; } /* mouse over */
 a:active { color:#0070BD; } /* selected */
